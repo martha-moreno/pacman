@@ -1,2 +1,2 @@
 # pacman
-Pacman moving turning at page edge in X 
+Pacman turning around at page edge in X 
