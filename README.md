@@ -1,12 +1,31 @@
-# SIMPLE PACMAN
-## Description
-Pacman turning around at page edge in X 
-##Installation
-You can download all files from this repository to your desktop, then drag index.html file to your browser
-##Usage
-By understanding this code, you can practice the use of SetInterval function and arrays
-##Roadmap
-Build the complete Pacman maze
-##License information
-For educational purposes
+# **PACMAN**
+
+
+## Introduction
+> XXXXX
+
+## Installation
+>  Download ALL FILES to the same location/folder
+>  Drag & Drop index html into your web browser
+
+## Built With
+>- HTML
+>- CSS
+>- Javascript
+
+## Future Updates
+> XXXX
+> XXXX
+
+## Links
+>- [My Portfolio](https://github.com/martha-moreno/martha-moreno.github.io)
+>- [PACMAN Repo](https://github.com/martha-moreno/pacman)
+
+## License
+> MIT
+## Language Card Layout
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martha-moreno&layout=compact)](https://github.com/martha-moreno/github-readme-stats)
+## Contact
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/martha-moreno/martha-moreno.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martha-gissela-moreno/)  
+
 
