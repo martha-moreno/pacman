@@ -2,7 +2,7 @@
 
 
 ## Introduction
-> XXXXX
+> This project displays a single pacman moving from side to side of the screen
 
 ## Installation
 >  Download ALL FILES to the same location/folder
@@ -12,10 +12,6 @@
 >- HTML
 >- CSS
 >- Javascript
-
-## Future Updates
-> XXXX
-> XXXX
 
 ## Links
 >- [My Portfolio](https://github.com/martha-moreno/martha-moreno.github.io)
